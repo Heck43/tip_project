@@ -1,0 +1,24 @@
+{
+    "balls": {
+        "count": 1,
+        "size": 30,
+        "shape": "\u041a\u0440\u0443\u0433",
+        "roundness": 0,
+        "random_motion": false
+    },
+    "physics": {
+        "gravity": 0.15,
+        "bounce_energy": 0.7,
+        "friction": 1.0
+    },
+    "keybinds": {
+        "exit": "\u001b",
+        "add_ball": " ",
+        "clear_balls": "c",
+        "open_settings": "s"
+    },
+    "sound": {
+        "selected_sound": "bounce1.wav",
+        "volume": 0.37
+    }
+}

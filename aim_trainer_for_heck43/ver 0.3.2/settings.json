@@ -1,6 +1,6 @@
 {
-    "sensitivity": 21.99,
-    "fov": 77,
+    "sensitivity": 15.0,
+    "fov": 70,
     "resolution": "1280x720",
     "show_score": true,
     "show_timer": true,
@@ -11,6 +11,5 @@
     "show_fps": true,
     "weapon_position_x": 0.3,
     "weapon_position_y": 0.8,
-    "weapon_position_z": -0.4,
-    "bhop_enabled": true
+    "weapon_position_z": -0.4
 }
