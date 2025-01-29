@@ -1,0 +1,41 @@
+{
+    "sensitivity": 9.490533828735352,
+    "fov": 86,
+    "resolution": "1366x768",
+    "show_score": 1,
+    "show_timer": 1,
+    "volume": 100,
+    "show_target_images": 0,
+    "damage_numbers": 1,
+    "killfeed": 1,
+    "show_fps": 1,
+    "weapon_position_x": 0.3,
+    "weapon_position_y": 0.8,
+    "weapon_position_z": -0.4,
+    "bhop_enabled": 0,
+    "weapon_position": {
+        "x": 0.2999999523162842,
+        "y": 0.7999999523162842,
+        "z": -0.3999999761581421
+    },
+    "motion_blur": {
+        "movement_strength": 0.5,
+        "rotation_strength": 0.5
+    },
+    "audio": {
+        "music_enabled": 0,
+        "music_volume": 0.0,
+        "current_track": "xz_ 111.mp3"
+    },
+    "recoil": {
+        "strength": 1.0,
+        "recovery_speed": 5.0,
+        "horizontal_randomness": 0.3,
+        "enabled": 0
+    },
+    "recoil_strength": 0.0,
+    "recoil_enabled": 0,
+    "screen_shake_intensity": 1.0,
+    "screen_shake_enabled": 1,
+    "target_count": 5
+}

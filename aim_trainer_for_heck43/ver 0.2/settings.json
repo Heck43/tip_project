@@ -1,0 +1,21 @@
+{
+    "sensitivity": 25.0,
+    "fov": 70,
+    "resolution": "1366x768",
+    "show_score": 1,
+    "show_timer": 1,
+    "volume": 100,
+    "show_target_images": 1,
+    "damage_numbers": true,
+    "killfeed": true,
+    "show_fps": true,
+    "weapon_position": {
+        "x": 0.7000000476837158,
+        "y": -1.0,
+        "z": -0.5
+    },
+    "weapon_position_x": 0.3,
+    "weapon_position_y": 0.8,
+    "weapon_position_z": -0.4,
+    "bhop_enabled": 0
+}
